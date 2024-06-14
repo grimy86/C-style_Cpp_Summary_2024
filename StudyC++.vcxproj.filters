@@ -16,9 +16,6 @@
     <Filter Include="Source Files\1. Program structure">
       <UniqueIdentifier>{a33112ef-e2cc-4d77-aee5-1b9bc7ab34b5}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Summary">
-      <UniqueIdentifier>{14796e1b-a465-4f06-893f-2d78289a8091}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
@@ -29,8 +26,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\Desktop\CPP.pdf">
-      <Filter>Summary</Filter>
-    </None>
+    <None Include="..\..\..\Desktop\CPP.pdf" />
   </ItemGroup>
 </Project>
