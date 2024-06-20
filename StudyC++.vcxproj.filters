@@ -26,6 +26,8 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\Desktop\CPP.pdf" />
+    <None Include="..\..\..\Desktop\CPP.pdf">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
